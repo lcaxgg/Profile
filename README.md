@@ -1,4 +1,4 @@
-<h2> Yo! Greetings. <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" width="50"></h2>
+<h2> Yo! Kamusta? <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" width="50"></h2>
 
 ```javascript
 const pinoy = {
