@@ -3,8 +3,8 @@
 ```javascript
 const pinoy = {
   pronouns: "he" | "him" | "his",
-  bio: "Passionate iOS Developer with over 2 years of professional experience specializing in Objective-C
-        and possessing intermediate-level proficiency in Swift.",
+  bio: "Passionate iOS Developer with over 2 years of professional experience specializing in
+        Objective-C and possessing intermediate-level proficiency in Swift.",
   techStack: [Object-Oriented Programming (OOP),
               Objective-C, Swift, UIKit, SwiftUI,
               Core Data, SQLite, Firebase,
