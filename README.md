@@ -3,9 +3,15 @@
 ```javascript
 const pinoy = {
   pronouns: "he" | "him" | "his",
-  bio: "There's nothing much to say, I just do things. 😉",
-  techStack: [Objective-C, Swift, UIkit,SwiftUI,
-              CoreData, SQLite, MySQL, Firebase],
+  bio: "Passionate iOS Developer with over 2 years of professional experience specializing in Objective-C
+        and possessing intermediate-level proficiency in Swift.",
+  techStack: [Object-Oriented Programming (OOP),
+              Objective-C, Swift, UIKit, SwiftUI,
+              Core Data, SQLite, Firebase,
+              Xcode, Jira, SourceTree,
+              Git, Gitlab, Github,
+              Model-View-Controller (MVC),
+              Model-View-ViewModel (MVVM)],
 }
 ```
 
@@ -13,6 +19,6 @@ const pinoy = {
 
 [![Instagram: _j8bok](https://img.shields.io/badge/Instagram-_j8bok-orange?style=social&logo=instagram)](https://www.instagram.com/_j8bok/)
 [![Gmail: jayvee.d.ercia@gmail.com](https://img.shields.io/badge/Gmail-jayvee.d.ercia%40gmail.com-red?style=social&logo=gmail)](mailto:jayvee.d.ercia@gmail.com)
-[![Linkedin: jayveee](https://img.shields.io/badge/-Jayvee_E.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayvee-e-852794220/)](https://www.linkedin.com/in/jayvee-e-852794220/)
+[![Linkedin: jayveee](https://img.shields.io/badge/-Jayvee_E.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayvee-e/)](https://www.linkedin.com/in/jayvee-e/)
 
 ---
