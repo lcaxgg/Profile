@@ -8,6 +8,7 @@ const pinoy = {
   techStack: [Object-Oriented Programming (OOP),
               Objective-C, Swift, UIKit, SwiftUI,
               Core Data, SQLite, Firebase,
+              Cocoapods, Cocoa Touch, Json,
               Xcode, Jira, SourceTree,
               Git, Gitlab, Github,
               Model-View-Controller (MVC),
