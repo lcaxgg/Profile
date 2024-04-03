@@ -2,7 +2,7 @@
 
 ```javascript
 const pinoy = {
-  pronouns: "he" | "him" | "his",
+  pronouns: "he" | "him"",
   bio: "Passionate iOS Developer with over 2 years of professional experience specializing in
         Objective-C and possessing intermediate-level proficiency in Swift.",
   techStack: [Object-Oriented Programming (OOP),
